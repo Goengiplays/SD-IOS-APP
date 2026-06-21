@@ -1,0 +1,6 @@
+.derivedData/
+.clang-module-cache/
+.swift-module-cache/
+*.xcuserstate
+xcuserdata/
+.DS_Store
